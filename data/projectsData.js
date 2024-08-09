@@ -65,15 +65,8 @@ export const projectsData = [
         "Lorem ipsum dolor sit amet consectetur adipisicing elit. Optio, natus! Quibusdam enim quod in esse, mollitia molestias incidunt quas ipsa accusamus veniam.",
       Technologies: [
         {
-          title: "Tools & Technologies",
-          techs: [
-            "HTML",
-            "CSS",
-            "JavaScript",
-            "Vue.js",
-            "TailwindCSS",
-            "AdobeXD",
-          ],
+          title: "Services",
+          techs: ["Renovation", "Construction", "Supplier"],
         },
       ],
       ProjectDetailsHeading: "Challenge",
@@ -100,50 +93,50 @@ export const projectsData = [
         },
       ],
       SocialSharingHeading: "Share This",
-      // SocialSharing: [
-      // 	{
-      // 		id: uuidv4(),
-      // 		name: 'Twitter',
-      // 		icon: <FiTwitter />,
-      // 		url: 'https://twitter.com/realstoman',
-      // 	},
-      // 	{
-      // 		id: uuidv4(),
-      // 		name: 'Instagram',
-      // 		icon: <FiInstagram />,
-      // 		url: 'https://instagram.com/realstoman',
-      // 	},
-      // 	{
-      // 		id: uuidv4(),
-      // 		name: 'Facebook',
-      // 		icon: <FiFacebook />,
-      // 		url: 'https://facebook.com/',
-      // 	},
-      // 	{
-      // 		id: uuidv4(),
-      // 		name: 'LinkedIn',
-      // 		icon: <FiLinkedin />,
-      // 		url: 'https://linkedin.com/',
-      // 	},
-      // 	{
-      // 		id: uuidv4(),
-      // 		name: 'Youtube',
-      // 		icon: <FiYoutube />,
-      // 		url: 'https://www.youtube.com/c/StomanStudio',
-      // 	},
-      // ],
+      //   SocialSharing: [
+      //     {
+      //       id: uuidv4(),
+      //       name: "Twitter",
+      //       icon: <FiTwitter />,
+      //       url: "https://twitter.com/realstoman",
+      //     },
+      //     {
+      //       id: uuidv4(),
+      //       name: "Instagram",
+      //       icon: <FiInstagram />,
+      //       url: "https://instagram.com/realstoman",
+      //     },
+      //     {
+      //       id: uuidv4(),
+      //       name: "Facebook",
+      //       icon: <FiFacebook />,
+      //       url: "https://facebook.com/",
+      //     },
+      //     {
+      //       id: uuidv4(),
+      //       name: "LinkedIn",
+      //       icon: <FiLinkedin />,
+      //       url: "https://linkedin.com/",
+      //     },
+      //     {
+      //       id: uuidv4(),
+      //       name: "Youtube",
+      //       icon: <FiYoutube />,
+      //       url: "https://www.youtube.com/c/StomanStudio",
+      //     },
+      //   ],
     },
   },
   {
     id: 2,
-    title: "Phoenix Digital Agency",
-    url: "phoenix-digital-agency",
-    category: "Mobile Application",
-    img: "/images/mobile-project-2.jpg",
+    title: "Yanna Apartments",
+    url: "https://yannaapartments.com/",
+    category: "Apartments",
+    img: "/images/yanna-1.jpeg",
     ProjectHeader: {
-      title: "Phoenix Digital Agency",
-      publishDate: "Jul 26, 2021",
-      tags: "Mobile Application",
+      title: "Yanna Apartments",
+      publishDate: "Jul 26, 2024",
+      tags: "Apartments",
     },
     ProjectImages: [
       {
@@ -262,14 +255,14 @@ export const projectsData = [
   },
   {
     id: 3,
-    title: "Project Management UI",
-    url: "project-management-ui",
-    category: "UI/UX Design",
-    img: "/images/ui-project-1.jpg",
+    title: "Squid Energy",
+    url: "https://squidenergy.net/",
+    category: "Renewable Energy",
+    img: "/images/squid-1.jpeg",
     ProjectHeader: {
-      title: "Project Management UI",
-      publishDate: "Jul 26, 2021",
-      tags: "UI / Frontend",
+      title: "Renewable Energy",
+      publishDate: "Jul 26, 2024",
+      tags: "Renewable Energy",
     },
     ProjectImages: [
       {
@@ -388,9 +381,9 @@ export const projectsData = [
   },
   {
     id: 4,
-    title: "Cloud Storage Platform",
+    title: "Village Walk Restaurant",
     url: "cloud-storage-platform",
-    category: "UI/UX Design",
+    category: "Restaurant",
     img: "/images/ui-project-2.jpg",
     ProjectHeader: {
       title: "Cloud Storage Platform",
@@ -514,14 +507,14 @@ export const projectsData = [
   },
   {
     id: 5,
-    title: "WeTalk Social Application",
+    title: "Khaliques Spa",
     url: "wetalk-social-app",
-    category: "Mobile Application",
+    category: "Spa",
     img: "/images/mobile-project-1.jpg",
     ProjectHeader: {
-      title: "WeTalk Social Application",
-      publishDate: "Jul 26, 2021",
-      tags: "UI / Frontend",
+      title: "Khaliques Spa",
+      publishDate: "Jul 26, 2024",
+      tags: "Spa",
     },
     ProjectImages: [
       {
@@ -640,14 +633,14 @@ export const projectsData = [
   },
   {
     id: 6,
-    title: "Apple New Design System",
+    title: "Pharmacy",
     url: "apple-new-design-system",
-    category: "Web Application",
+    category: "HealthCare",
     img: "/images/web-project-1.jpg",
     ProjectHeader: {
       title: "Apple New Design System",
       publishDate: "Jul 26, 2021",
-      tags: "UI / Frontend",
+      tags: "HealthCare",
     },
     ProjectImages: [
       {

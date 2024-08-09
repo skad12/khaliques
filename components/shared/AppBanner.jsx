@@ -34,7 +34,7 @@ function AppBanner() {
             duration: 0.9,
             delay: 0.2,
           }}
-          className="font-general-medium mt-4 text-sm md:text-sm lg:text-md xl:text-xl text-center sm:text-left leading-normal text-gray-500 dark:text-gray-200"
+          className="font-general-medium mt-4 text-xs md:text-sm lg:text-sm xl:text-md text-center sm:text-left leading-normal text-gray-500 dark:text-gray-200"
         >
           A leading company in Real Estate (Commercial &amp; Residential),
           construction of hospital infrastructure, hotels, and hospitality

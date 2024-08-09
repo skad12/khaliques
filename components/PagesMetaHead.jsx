@@ -15,7 +15,7 @@ function PagesMetaHead({ title, keywords, description }) {
 
 PagesMetaHead.defaultProps = {
   title: "Khaliques Group",
-  keywords: "Spa, RealEstate, Construction, Hospital",
+  keywords: "Apartments, Spa, Real-Estate, Construction, Hospital",
 };
 
 export default PagesMetaHead;

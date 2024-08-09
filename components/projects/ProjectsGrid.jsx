@@ -27,14 +27,14 @@ function ProjectsGrid() {
   });
 
   return (
-    <section className="py-5 sm:py-10 mt-5 sm:mt-10">
-      <div className="text-center">
-        <p className="font-general-medium text-2xl sm:text-4xl mb-1 text-ternary-dark dark:text-ternary-light">
+    <section className="py-5 sm:py-16 mt-5 sm:mt-32">
+      <div className="text-center ">
+        <p className="font-general-medium text-2xl sm:text-6xl mb-1 text-ternary-dark dark:text-ternary-light">
           Company Projects
         </p>
       </div>
 
-      <div className="mt-10 sm:mt-16">
+      <div className="mt-10 sm:mt-32">
         {/* <h3
           className="
                         font-general-regular 
@@ -106,7 +106,7 @@ function ProjectsGrid() {
         </div>
       </div>
 
-      <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 mt-6 sm:gap-5">
+      <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 mt-6 sm:gap-5  ">
         {selectProject
           ? selectProjectsByCategory.map((project, index) => {
               return <ProjectSingle key={index} {...project} />;
