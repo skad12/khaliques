@@ -1,4 +1,11 @@
-const selectOptions = ["Apartments", "Construction", "Spa", "Renewable Energy"];
+const selectOptions = [
+  "Apartments",
+  "Construction",
+  "Company",
+  "HealthCare",
+  "Spa",
+  "Restaurant",
+];
 
 function ProjectsFilter({ setSelectProject }) {
   return (

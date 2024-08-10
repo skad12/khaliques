@@ -10,16 +10,16 @@ function AppBanner() {
     <div
       className="bg-cover min-h-screen"
       style={{
-        backgroundImage: `url('/images/banner.jpeg')`,
+        backgroundImage: `url('/images/banner-4.jpg')`,
       }}
     >
       <motion.section
         initial={{ opacity: 0 }}
         animate={{ opacity: 1 }}
         transition={{ ease: "easeInOut", duration: 0.9, delay: 0.2 }}
-        className="flex flex-col sm:justify-between items-center sm:flex-row mt-5 md:mt-2 object-cover xl:space-x-5 pl-10 pt-72 "
+        className=" mt-5 md:mt-2 object-cover pl-10 "
       >
-        <div className="w-full md:w-1/3 text-left  ">
+        <div className="w-full md:w-1/3 text-left pt-72">
           <motion.h1
             initial={{ opacity: 0 }}
             animate={{ opacity: 1 }}
@@ -28,7 +28,7 @@ function AppBanner() {
               duration: 0.9,
               delay: 0.1,
             }}
-            className="font-general-semibold text-2xl lg:text-3xl xl:text-4xl text-center sm:text-left text-ternary-dark uppercase"
+            className="  font-general-semibold text-2xl lg:text-3xl xl:text-4xl text-center sm:text-left text-ternary-dark uppercase"
           >
             Khaliques Group of Companies Limited
           </motion.h1>
@@ -40,7 +40,7 @@ function AppBanner() {
               duration: 0.9,
               delay: 0.2,
             }}
-            className="font-general-medium mt-4 text-xs md:text-sm lg:text-sm xl:text-md text-center sm:text-left leading-normal text-ternary-dark "
+            className=" font-general-medium mt-4 text-sm md:text-md lg:text-lg xl:text-md text-center sm:text-left leading-normal text-ternary-dark"
           >
             A leading company in Real Estate (Commercial &amp; Residential),
             construction of hospital infrastructure, hotels, and hospitality
