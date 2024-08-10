@@ -157,7 +157,7 @@ function AppHeader() {
           </div>
           <div
             className="block text-left text-lg font-medium text-primary-dark dark:text-ternary-light hover:text-secondary-dark dark:hover:text-secondary-light  sm:mx-4 mb-2 sm:py-2"
-            aria-label="About Me"
+            aria-label="About Us"
           >
             <Link href="/about">About Us</Link>
           </div>
@@ -174,7 +174,7 @@ function AppHeader() {
           <div className="hidden md:flex">
             <button
               onClick={showHireMeModal}
-              className="text-md font-general-medium bg-indigo-500 hover:bg-indigo-600 text-white shadow-sm rounded-md px-5 py-2.5 duration-300"
+              className="text-md font-general-medium bg-ternary-dark hover:bg-blue-950 text-white shadow-sm rounded-md px-5 py-2.5 duration-300"
               aria-label="Hire Me Button"
             >
               Schedule A Tour
