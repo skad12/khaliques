@@ -47,7 +47,7 @@ export const projectsData = [
         {
           id: uuidv4(),
           title: "Services",
-          details: "Web Development",
+          details: "Construction",
         },
         {
           id: uuidv4(),
@@ -93,38 +93,38 @@ export const projectsData = [
         },
       ],
       SocialSharingHeading: "Share This",
-      //   SocialSharing: [
-      //     {
-      //       id: uuidv4(),
-      //       name: "Twitter",
-      //       icon: <FiTwitter />,
-      //       url: "https://twitter.com/realstoman",
-      //     },
-      //     {
-      //       id: uuidv4(),
-      //       name: "Instagram",
-      //       icon: <FiInstagram />,
-      //       url: "https://instagram.com/realstoman",
-      //     },
-      //     {
-      //       id: uuidv4(),
-      //       name: "Facebook",
-      //       icon: <FiFacebook />,
-      //       url: "https://facebook.com/",
-      //     },
-      //     {
-      //       id: uuidv4(),
-      //       name: "LinkedIn",
-      //       icon: <FiLinkedin />,
-      //       url: "https://linkedin.com/",
-      //     },
-      //     {
-      //       id: uuidv4(),
-      //       name: "Youtube",
-      //       icon: <FiYoutube />,
-      //       url: "https://www.youtube.com/c/StomanStudio",
-      //     },
-      //   ],
+      SocialSharing: [
+        // {
+        //   id: uuidv4(),
+        //   name: "Twitter",
+        //   icon: " /public/icons/twitter.png ",
+        //   url: "https://twitter.com/realstoman",
+        // },
+        // {
+        //   id: uuidv4(),
+        //   name: "Instagram",
+        //   icon: <FiInstagram />,
+        //   url: "https://instagram.com/realstoman",
+        // },
+        // {
+        //   id: uuidv4(),
+        //   name: "Facebook",
+        //   icon: <FiFacebook />,
+        //   url: "https://facebook.com/",
+        // },
+        // {
+        //   id: uuidv4(),
+        //   name: "LinkedIn",
+        //   icon: <FiLinkedin />,
+        //   url: "https://linkedin.com/",
+        // },
+        // {
+        //   id: uuidv4(),
+        //   name: "Youtube",
+        //   icon: <FiYoutube />,
+        //   url: "https://www.youtube.com/c/StomanStudio",
+        // },
+      ],
     },
   },
   {
@@ -142,46 +142,46 @@ export const projectsData = [
       {
         id: uuidv4(),
         title: "Phoenix Digital Agency",
-        img: "/images/ui-project-1.jpg",
+        img: "/images/yanna-2.jpg",
       },
       {
         id: uuidv4(),
         title: "Phoenix Digital Agency",
-        img: "/images/web-project-2.jpg",
+        img: "/images/yanna-3.jpg",
       },
       {
         id: uuidv4(),
         title: "Phoenix Digital Agency",
-        img: "/images/mobile-project-2.jpg",
+        img: "/images/yanna-1.jpeg",
       },
     ],
     ProjectInfo: {
-      ClientHeading: "About Client",
+      ClientHeading: "About Apartments",
       CompanyInfo: [
         {
           id: uuidv4(),
           title: "Name",
-          details: "Company Ltd",
+          details: "Yanna Apartments",
         },
         {
           id: uuidv4(),
           title: "Services",
-          details: "UI Design & Frontend Development",
+          details: "Apartments",
         },
         {
           id: uuidv4(),
           title: "Website",
-          details: "https://company.com",
+          details: "https://yannaapartments.com/",
         },
         {
           id: uuidv4(),
           title: "Phone",
-          details: "555 8888 888",
+          details: "+234-809-299-2200",
         },
       ],
       ObjectivesHeading: "Objective",
       ObjectivesDetails:
-        "Lorem ipsum dolor sit amet consectetur adipisicing elit. Optio, natus! Quibusdam enim quod in esse, mollitia molestias incidunt quas ipsa accusamus veniam.",
+        "Welcome to Yanna Apartments, where hospitality meets modern luxury in the heart of Abuja, Nigeria. Our story is one of passion, dedication, and a deep commitment to providing exceptional accommodation experiences in luxury apartments Abuja.",
       Technologies: [
         {
           title: "Tools & Technologies",
@@ -195,12 +195,12 @@ export const projectsData = [
           ],
         },
       ],
-      ProjectDetailsHeading: "Challenge",
+      ProjectDetailsHeading: "Summary",
       ProjectDetails: [
         {
           id: uuidv4(),
           details:
-            "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Nihil vel illum asperiores dignissimos cumque quibusdam et fugiat voluptatem nobis suscipit explicabo, eaque consequatur nesciunt, fugit eligendi corporis laudantium adipisci soluta? Lorem ipsum, dolor sit amet consectetur adipisicing elit. Incidunt totam dolorum, ducimus obcaecati, voluptas facilis molestias nobis ut quam natus similique inventore excepturi optio ipsa deleniti fugit illo. Unde, amet! Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ipsum illo necessitatibus perspiciatis! Aperiam perferendis labore temporibus, eos culpa corporis recusandae quas, fuga voluptatibus nesciunt odit libero tenetur neque consequatur ea.",
+            "Welcome to Yanna Apartments, where hospitality meets modern luxury in the heart of Abuja, Nigeria. Our story is one of passion, dedication, and a deep commitment to providing exceptional accommodation experiences in luxury apartments Abuja.",
         },
         {
           id: uuidv4(),
@@ -386,25 +386,25 @@ export const projectsData = [
     category: "Restaurant",
     img: "/images/village-1.jpg",
     ProjectHeader: {
-      title: "Cloud Storage Platform",
-      publishDate: "Jul 26, 2021",
-      tags: "Web & Cloud",
+      title: "Village Walk Restaurant",
+      publishDate: "Jul 26, 2024",
+      tags: "Restaurant",
     },
     ProjectImages: [
       {
         id: uuidv4(),
         title: "Kabul Cloud Storage Platform",
-        img: "/images/ui-project-1.jpg",
+        img: "/images/village-2.jpg",
       },
       {
         id: uuidv4(),
         title: "Kabul Cloud Storage Platform",
-        img: "/images/web-project-2.jpg",
+        img: "/images/village-3.jpg",
       },
       {
         id: uuidv4(),
         title: "Kabul Cloud Storage Platform",
-        img: "/images/mobile-project-2.jpg",
+        img: "/images/village-4.jpg",
       },
     ],
     ProjectInfo: {
@@ -519,18 +519,18 @@ export const projectsData = [
     ProjectImages: [
       {
         id: uuidv4(),
-        title: "WeTalk Social Application",
-        img: "/images/ui-project-1.jpg",
+        title: "Sanus Par Aquam Spa",
+        img: "/images/spa-1.jpg",
       },
       {
         id: uuidv4(),
         title: "WeTalk Social Application",
-        img: "/images/web-project-2.jpg",
+        img: "/images/spa-2.jpg",
       },
       {
         id: uuidv4(),
         title: "WeTalk Social Application",
-        img: "/images/mobile-project-2.jpg",
+        img: "/images/spa-3.jpg",
       },
     ],
     ProjectInfo: {
@@ -638,25 +638,25 @@ export const projectsData = [
     category: "HealthCare",
     img: "/images/pharma-1.jpg",
     ProjectHeader: {
-      title: "Apple New Design System",
-      publishDate: "Jul 26, 2021",
+      title: "Pharm Fruith",
+      publishDate: "Jul 26, 2024",
       tags: "HealthCare",
     },
     ProjectImages: [
       {
         id: uuidv4(),
         title: "Kabul Apple New Design System",
-        img: "/images/ui-project-1.jpg",
+        img: "/images/pharma-2.jpg",
       },
       {
         id: uuidv4(),
         title: "Kabul Apple New Design System",
-        img: "/images/web-project-2.jpg",
+        img: "/images/pharma-4.jpg",
       },
       {
         id: uuidv4(),
         title: "Kabul Apple New Design System",
-        img: "/images/mobile-project-2.jpg",
+        img: "/images/pharma-5.jpg",
       },
     ],
     ProjectInfo: {

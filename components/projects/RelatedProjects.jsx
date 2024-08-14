@@ -6,22 +6,22 @@ const RelatedProject = {
   Projects: [
     {
       id: uuidv4(),
-      title: "Mobile UI",
+      title: "Dmayor Fitness Gym",
       img: "/images/gym-1.jpg",
     },
     {
       id: uuidv4(),
-      title: "Web Application",
+      title: "Sanus Par Aquam Spa",
       img: "/images/spa-1.jpg",
     },
     {
       id: uuidv4(),
-      title: "UI Design",
+      title: "Village Walk Restaurant",
       img: "/images/village-1.jpg",
     },
     {
       id: uuidv4(),
-      title: "Kabul Mobile App UI",
+      title: "Yanna Apartments",
       img: "/images/yanna-6.jpg",
     },
   ],
